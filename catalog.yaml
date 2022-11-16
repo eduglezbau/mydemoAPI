@@ -1,0 +1,14 @@
+#%Catalog Descriptor 1.0
+projects:
+  - main: payments-oas.yaml
+    assetId: invoice-payment-system-api
+    version: 1.1.0
+    apiVersion: v1
+    contact:
+      name: 'Patti Smith'
+      email: 'patti.smith@org.com'
+    tags:
+      - projects
+      - training
+    documentation:
+      Home: home.md
