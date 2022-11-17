@@ -1,6 +1,6 @@
 # Payments API - UAPIM Demo
 
-Permits payments of orders and other stuffs. Try it again!!
+Permits payments of orders and other stuffs. Try it again!
 
 **URL** : `/api/payments/:pk/`
 
